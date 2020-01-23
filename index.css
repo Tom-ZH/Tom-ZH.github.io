@@ -17,6 +17,7 @@ h1 {
 width: 25%;
 float: left;
 }
+
 .cover-image {
 max-width: 150px;
 width: 90%;
@@ -25,15 +26,18 @@ margin: auto;
 margin-top: 20px;
 display: block;
 }
+
 .text-wraper {
 width: 74%;
 float: right;
 margin-top: 20px;
 padding-bottom: 20px;
 }
+
 .clear{
 clear: both;
 }
+
 .line.light {
 border-bottom: 1px solid #626262;
 }
